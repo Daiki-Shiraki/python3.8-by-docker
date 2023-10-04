@@ -1,4 +1,5 @@
-## Environment For JPHacks2023
+## python3.8 by Docker
+Environment For JPHacks2023
 
 ### how to use
 1. if you don't install `Docker` in your machine, install [Docker Desktop](https://www.docker.com/products/docker-desktop/)
